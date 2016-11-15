@@ -45,3 +45,4 @@ redis>=2.10.5
 
 
 # Your custom requirements go here
+wiki==0.2b2
